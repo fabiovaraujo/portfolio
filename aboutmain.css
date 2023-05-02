@@ -1,0 +1,89 @@
+.informações {
+    background-color: #181b23;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 20px 150px;
+    padding: 30px;
+}
+
+.informações > h2 {
+    color: #ffe13b;
+    font-family: 'Roboto';
+    font-size: 19px;
+}
+
+.informações > p {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.qualificação {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 9px;
+    padding-top: 50px;
+}
+
+.qualificação > p {
+    color: #cfcfcf;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+.formação {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 9px;
+    padding-top: 30px;
+}
+.formação > p {
+    color: #cfcfcf;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+.conhecimentos > p {
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.conhecimentosparagrafosegundo {
+    color: #cfcfcf;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    padding-top: 5px;
+
+}
+
+.profissionais {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 9px;
+    padding-top: 30px;
+    
+}
+
+.profissionais > p {
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.lojas {
+    color: #cfcfcf;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.consultor {
+    color: #cfcfcf;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;  
+}

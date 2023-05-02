@@ -1,0 +1,32 @@
+.imgperfil {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.tituloprimario > h1 {
+    color: white;
+    font-family: 'Roboto';
+    text-align: center;
+
+}
+
+.tituloprimario > h2 {
+    color: white;
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 28px;
+}
+
+.tituloprimario > p {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding: 20px;
+}
+
+.icones {
+    text-align: center;
+    padding: 10px 10px 25px 10px;
+    
+}

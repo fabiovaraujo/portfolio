@@ -1,0 +1,40 @@
+.section-projects {
+    
+    width:100%;
+    border-top: 5px solid #ffe13b ;
+    
+}
+
+.tituloterciario > h2 {
+    font-family: 'Roboto';
+    text-align: center;
+    color: #ffe13b;
+    font-size: 35px;
+    padding-top: 20px;
+}
+
+.tituloterciario > p {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tituloterciario > h3 {
+    font-family: 'Roboto';
+    text-align: center;
+    color: #ffe13b;
+    font-size: 28px;
+    padding-top: 20px;
+}
+
+.notebookimagem {
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.notebookimagem > p {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

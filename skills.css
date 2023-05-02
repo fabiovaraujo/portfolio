@@ -1,0 +1,95 @@
+.section-skills {
+    
+    width:100%;
+    border-top: 5px solid #ffe13b ;
+    
+}
+
+.titulosecundario > h2 {
+    font-family: 'Roboto';
+    text-align: center;
+    color: #ffe13b;
+    font-size: 35px;
+    padding-top: 20px;
+}
+
+.titulosecundario > p {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section-logos {
+    background-color: #181b23(108, 211, 19);
+    padding: 10px 0px 20px 10px;
+    display: flex;
+    text-align: center;
+    
+
+}
+
+.logohtml {
+    color: white;
+    padding-top: 20px;
+    
+    border: 1px #ffe13b solid;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.logocss {
+    color: white;
+    padding-top: 20px;
+    
+    border: 1px #ffe13b solid;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.logojavascript {
+    color: white;
+    padding-top: 20px;
+    
+    border: 1px #ffe13b solid;
+    border-radius: 10px;
+}
+
+.logohtml > h2 {
+    font-family: 'Roboto';
+    padding-top: 10px;
+}
+
+.logohtml > p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding: 0px 5px 10px 10px;
+    text-align: center;
+}
+
+.logocss > h2 {
+    font-family: 'Roboto';
+    padding-top: 10px;
+}
+
+.logocss > p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding: 0px 5px 10px 10px;
+    text-align: center;
+}
+
+.logojavascript > h2 {
+    font-family: 'Roboto';
+    padding-top: 10px;
+}
+
+.logojavascript > p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding: 0px 5px 10px 10px;
+    text-align: center;
+}
+
+    

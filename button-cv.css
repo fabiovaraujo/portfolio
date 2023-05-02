@@ -1,0 +1,29 @@
+.button-cv {
+    text-align: center;
+    padding-top: 120px;
+    
+}
+
+.button-cv > a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.button-cv > a:hover {
+    color: #ffe13b;
+}
+
+.button-cv > button {
+    padding: 7px;
+    
+    border: 1px solid #ffffff ;
+    border-radius: 3px;
+}
+
+.button-cv > button:hover{
+    background-color: #ffe13b;
+    
+}
