@@ -8,8 +8,11 @@
 
 }
 
+
 body {
   background-color: #181b23;
+
+  
 }
 
 header {
@@ -20,6 +23,8 @@ header {
     background-color: #181b23;
     box-shadow: 1px 1px 5px #e2e2e250;
 
+    min-width: 300px;
+  
 }
 
 .sticky {
