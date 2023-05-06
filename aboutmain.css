@@ -1,9 +1,14 @@
+main {
+    width: 100%;
+}
+
 .informações {
     background-color: #181b23;
     border: 1px solid white;
     border-radius: 10px;
     margin: 20px 150px;
     padding: 30px;
+    
 }
 
 .informações > h2 {
